@@ -1,7 +1,7 @@
 $('.error-page').hide(0);
 
 $('.login-button , .no-access').click(function(){
-    document.location.href="loadingmain.html";
+    document.location.href="main.html";
 });
 
 $('.try-again').click(function(){
